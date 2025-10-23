@@ -1,0 +1,29 @@
+# Dependencias para la aplicación DementIA
+
+# Deep Learning
+tensorflow>=2.13.0
+keras>=2.13.0
+
+# Procesamiento de audio
+librosa>=0.10.0
+soundfile>=0.12.0
+audiomentations>=0.30.0
+
+# Transformers (Wav2Vec2)
+transformers>=4.30.0
+
+# Procesamiento de datos
+numpy>=1.24.0
+scipy>=1.11.0
+scikit-learn>=1.3.0
+
+# Visualización
+matplotlib>=3.7.0
+
+# Barra de progreso
+tqdm>=4.65.0
+
+# Interfaz de usuario (Streamlit)
+streamlit>=1.25.0
+
+
